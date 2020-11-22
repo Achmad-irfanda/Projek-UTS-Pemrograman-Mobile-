@@ -1,6 +1,6 @@
 # projekuts
 
-ini merupakan projek uts pemrograman mobile
+ini merupakan projek uts pemrograman mobile, yang disusun oleh Achmad Irfanda NIM 1815091032, Prodi Sistem Informasi Universitas Pendidikan Ganesha
 
 ## Getting Started
 
